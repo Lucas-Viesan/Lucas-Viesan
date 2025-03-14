@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Vieira 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou graduado no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo(IFSP). Também fiz parte da turma 79 do Bootcamp de Desenvolvedor Full Stack Java na Generation Brasil. Acredito no poder de como a tecnologia pode contribuir com soluções para melhorar a sociedade, sendo assim, busco constantemente alavancar meus conhecimentos para produzir resultados que geram valor para sociedade.
 
