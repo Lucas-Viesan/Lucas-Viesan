@@ -7,7 +7,7 @@
 
 Olá! Me chamo Lucas Vieira, tenho 25 anos, sou de São Paulo e formado em Análise e Desenvolvimento de Sistemas pelo IFSP. Também participei do Bootcamp de Desenvolvedor Full Stack Java na Generation Brasil.
 
-Atuo como Desenvolvedor Full Stack Java, com experiência em Java, Spring Boot, SQL, JavaScript, HTML e CSS. Tenho focado no desenvolvimento de APIs REST, interfaces web e bancos de dados relacionais.
+Atuo como Desenvolvedor Full Stack, com experiência em Java, Spring Boot, SQL, JavaScript, HTML e CSS. Tenho focado no desenvolvimento de APIs REST, interfaces web e bancos de dados relacionais.
 
 Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
 
