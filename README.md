@@ -106,7 +106,7 @@ Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
 
 </br> 
 </br>
-## Estatísticas
+##Estatísticas
 
 <p align="center">
   <img 
