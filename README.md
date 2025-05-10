@@ -14,7 +14,7 @@ Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
 💡 Gosto de aprender, encarar desafios e usar a tecnologia para criar soluções que geram valor.
 
 ---
-
+## Tecnologias 
 <img 
     align="left" 
     alt="HTML"
@@ -104,22 +104,20 @@ Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-<br/>
-<br/>
+---
+## Estatísticas
 
 <p align="center">
   <img 
     alt="Estatísticas do GitHub" 
-    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Lucas-Viesan&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
-    style="margin-right: 20px;" 
+    width="48%" 
   />
-
   <img 
     alt="Linguagens mais usadas" 
-    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Viesan&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    width="48%" 
   />
 </p>
+
 
