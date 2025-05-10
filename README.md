@@ -104,20 +104,23 @@ Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
----
+</br> 
+</br>
 ## Estatísticas
 
 <p align="center">
   <img 
     alt="Estatísticas do GitHub" 
     src="https://github-readme-stats.vercel.app/api?username=Lucas-Viesan&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
-    width="48%" 
+    height="180"
   />
+  &nbsp;&nbsp;&nbsp;
   <img 
     alt="Linguagens mais usadas" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Viesan&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    width="48%" 
+    height="180"
   />
 </p>
+
 
 
