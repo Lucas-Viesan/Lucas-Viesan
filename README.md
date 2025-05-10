@@ -1,35 +1,25 @@
-# 👩🏻‍💻 Lucas Vieira 
+<h1 align="center">Lucas Vieira</h1>
 
-**`Desenvolvedor FullStack`**
-
-Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou graduado no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo(IFSP). Também fiz parte da turma 79 do Bootcamp de Desenvolvedor Full Stack Java na Generation Brasil. Acredito no poder de como a tecnologia pode contribuir com soluções para melhorar a sociedade, sendo assim, busco constantemente alavancar meus conhecimentos para produzir resultados que geram valor para sociedade.
-
-<p align="left">
-    <a href="https://github.com/Lucas-Viesan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lucas-Viesan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Lucas-Viesan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lucas-Viesan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-007ACC?style=for-the-badge&logoColor=white" alt="Full Stack Badge"/>
 </p>
 
----
 
-### 🤖 Linguagens e Tecnologias
+Olá! Me chamo Lucas Vieira, tenho 25 anos, sou de São Paulo e formado em Análise e Desenvolvimento de Sistemas pelo IFSP. Também participei do Bootcamp de Desenvolvedor Full Stack Java na Generation Brasil.
+
+Atuo como Desenvolvedor Full Stack Java, com experiência em Java, Spring Boot, SQL, JavaScript, HTML e CSS. Tenho focado no desenvolvimento de APIs REST, interfaces web e bancos de dados relacionais.
+
+Também tenho conhecimentos em Scrum, Git e boas práticas de testes.
+
+💡 Gosto de aprender, encarar desafios e usar a tecnologia para criar soluções que geram valor.
+
+---
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -37,15 +27,23 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,7 +51,7 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -61,7 +59,7 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -69,7 +67,7 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -77,25 +75,31 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
     align="left" 
     alt="Spring"
     title="Spring" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -104,22 +108,18 @@ Olá, meu nome é Lucas Vieira, tenho 25 anos e sou natural de São Paulo. Sou g
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Viesan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Viesan&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 20px;" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Viesan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Linguagens mais usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Viesan&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
